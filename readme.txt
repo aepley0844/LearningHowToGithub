@@ -1,6 +1,6 @@
 Hello!
 
-This is our final project for our Web Development course at NCSSM!
+This is me learning how to use github lmao!
 
 Our project is XYZ
 
